@@ -14,8 +14,8 @@
  * 依序輸入 __藝人名、專輯名、歌曲名__ 即可得到30秒的試播以及完整版的連結
 
 ### 使用流程範例
-![](https://i.imgur.com/FEkuXEg.jpg =x485)![](https://i.imgur.com/73hFvin.jpg =x485)
-![](https://i.imgur.com/iIzNMTZ.jpg =x485)![](https://i.imgur.com/VIvHGct.jpg =x485)
+![](https://i.imgur.com/FEkuXEg.jpg)![](https://i.imgur.com/73hFvin.jpg)
+![](https://i.imgur.com/iIzNMTZ.jpg)![](https://i.imgur.com/VIvHGct.jpg)
 
 ### FSM-image
 ![](https://i.imgur.com/fhNIU5Y.png)
